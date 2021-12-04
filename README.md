@@ -1,6 +1,6 @@
 - Hey Im Luna
 - I Love coding and plaing video games
-- I am working on Learning java
+- I am working on Learning java and python
 - I use she/her pronouns
 
 <!---
