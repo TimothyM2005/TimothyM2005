@@ -7,11 +7,8 @@ Languages:
 
 Learning:
 
-
-![Nodejs](https://img.shields.io/badge/Nodejs-68A063?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Javascript](https://img.shields.io/badge/Javascript-f0db4f?style=for-the-badge&logo=javascript&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-d65d0e?style=for-the-badge&logo=java&logoColor=white)
-
 
 Tools:
 
@@ -26,7 +23,5 @@ Social:
 
 [![YouTube](https://img.shields.io/youtube/channel/subscribers/UCW15iq1zNcbIvAKF3uc8AxA?color=c4302b&label=Luna&logo=youtube&logoColor=c4302b&style=for-the-badge)](https://www.youtube.com/channel/UCW15iq1zNcbIvAKF3uc8AxA)
 [![GitHub](https://img.shields.io/github/followers/LunaAstris16?color=192841&label=Luna&logo=github&logoColor=192841&style=for-the-badge)](https://github.com/LunaAstris16)
-
-If you would like to contact me, the best way to do so is on discord @Sylkos#5840
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LunaAstris16&hide=Mathematica&langs_count=8&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
