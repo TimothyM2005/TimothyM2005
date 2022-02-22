@@ -25,7 +25,7 @@ Tools:
 Social:
 
 [![YouTube](https://img.shields.io/youtube/channel/subscribers/UCeeEphYNfG0NutXAoakI3kg?color=c4302b&label=Luna&logo=youtube&logoColor=c4302b&style=for-the-badge)](https://www.youtube.com/channel/UCW15iq1zNcbIvAKF3uc8AxA)
-[![GitHub](https://img.shields.io/github/followers/Sylk0s?color=192841&label=Luna&logo=github&logoColor=192841&style=for-the-badge)](https://github.com/LunaAstris16)
+[![GitHub](https://img.shields.io/github/followers/LunaAstris16?color=192841&label=Luna&logo=github&logoColor=192841&style=for-the-badge)](https://github.com/LunaAstris16)
 
 If you would like to contact me, the best way to do so is on discord @Sylkos#5840
 
