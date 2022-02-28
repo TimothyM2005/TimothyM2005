@@ -1,13 +1,9 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LunaAstris16&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-Languages:
-
-![Python](https://img.shields.io/badge/-Python-ffba01?style=for-the-badge&logo=python&logoColor=white)
-
 Learning:
 
-![Javascript](https://img.shields.io/badge/Javascript-f0db4f?style=for-the-badge&logo=javascript&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-ffba01?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-d65d0e?style=for-the-badge&logo=java&logoColor=white)
 
 Tools:
