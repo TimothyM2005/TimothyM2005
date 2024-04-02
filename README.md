@@ -17,7 +17,6 @@ Tools:
 
 Social:
 
-[![YouTube](https://img.shields.io/youtube/channel/subscribers/UCW15iq1zNcbIvAKF3uc8AxA?color=c4302b&label=Luna&logo=youtube&logoColor=c4302b&style=for-the-badge)](https://www.youtube.com/channel/UCW15iq1zNcbIvAKF3uc8AxA)
 [![GitHub](https://img.shields.io/github/followers/TimothyM2005?color=192841&label=Luna&logo=github&logoColor=192841&style=for-the-badge)](https://github.com/LunaAstris16)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TimothyM2005&hide=Mathematica&langs_count=8&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
