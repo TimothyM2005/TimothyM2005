@@ -5,6 +5,7 @@ Learning:
 
 ![Python](https://img.shields.io/badge/-Python-ffba01?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-d65d0e?style=for-the-badge&logo=java&logoColor=white)
+![React](https://img.shields.io/badge/React-d65d0e?style=for-the-badge&logo=java&logoColor=white)
 
 Tools:
 
@@ -12,7 +13,6 @@ Tools:
 ![Github](https://img.shields.io/badge/Github-gray?style=for-the-badge&logo=Github&logoColor=white)
 ![Intellij IDEA](https://img.shields.io/badge/Intellij-ff0066?style=for-the-badge&logo=IntelliJ-IDEA&logoColor=white)
 ![VScodium](https://img.shields.io/badge/VScodium-0084e0?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Arch](https://img.shields.io/badge/Arch%20Linux-009dff?style=for-the-badge&logo=archlinux&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white)
 
 Social:
