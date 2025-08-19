@@ -15,8 +15,4 @@ Tools:
 ![VScodium](https://img.shields.io/badge/VScodium-0084e0?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white)
 
-Social:
-
-[![GitHub](https://img.shields.io/github/followers/TimothyM2005?color=192841&label=Timothy_Mitchell&logo=github&logoColor=192841&style=for-the-badge)]((https://github.com/TimothyM2005))
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TimothyM2005&hide=Mathematica&langs_count=8&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
